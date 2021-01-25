@@ -6,12 +6,12 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [GML application schemas, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-gml) | INSPIRE spatial data set encoded in GML, Bio-geographical Regions features |
-| [Application Schema, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-as) | INSPIRE spatial data set |
-| [Reference Systems, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-rs) | INSPIRE spatial data set |
-| [Data Consistency, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-dc) | INSPIRE spatial data set |
-| [Information Accessibility, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-ia) | INSPIRE spatial data set |
-| [Portrayal, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/3.0/br-portrayal) | INSPIRE view service |
+| [GML application schemas, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-gml) | INSPIRE spatial data set encoded in GML, Bio-geographical Regions features |
+| [Application Schema, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-as) | INSPIRE spatial data set |
+| [Reference Systems, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-rs) | INSPIRE spatial data set |
+| [Data Consistency, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-dc) | INSPIRE spatial data set |
+| [Information Accessibility, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-ia) | INSPIRE spatial data set |
+| [Portrayal, Bio-geographical Regions](http://inspire.ec.europa.eu/id/ats/data-br/master/br-portrayal) | INSPIRE view service |
 
 
 ## Approach
