@@ -21,7 +21,7 @@ This data theme currently has the following empty code list:
 
 **Notes**
 
-Data providers may use the values specified in the INSPIRE Technical Guidance document on Bio-geographical Regions.
+Data providers may use the values specified in the INSPIRE Technical Guidance document on Bio-geographical Regions and available in the INSPIRE registry.
 
 ## Messages
 
